@@ -5,13 +5,14 @@
 ☕**Focada em desenvolvimento Backend**
 
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/carolinebarroso">
     <img src="https://img.shields.io/badge/GitHub-CAROLINEBARROSO-181717?style=for-the-badge&logo=github" />
   </a>
-  
+  <p align="left">
+  <a href="https://www.linkedin.com/in/caroline-barroso-498035375/">
 </p>
 
 ---
