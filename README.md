@@ -19,7 +19,7 @@
 
 ## 📚 Atualmente estudando
 
-💻Python \ 
+💻Python \
 Estrutura de Repetição (for\while) \
 Manipulação de Dados \
 Entrada e Saída de Dados \
