@@ -19,18 +19,18 @@
 
 ## 📚 Atualmente estudando
 
-💻Python\ 
-Estrutura de Repetição (for\while)
-Manipulação de Dados 
-Entrada e Saída de Dados
-Abertura de Arquivo em Exel
+💻Python \ 
+Estrutura de Repetição (for\while) \
+Manipulação de Dados \
+Entrada e Saída de Dados \
+Abertura de Arquivo em Exel 
 
 💻 C \
-Formatação de dados em arquivo
-Operadores Matemáticos
-Estruturas Condicionais (if/else)
-Vetores e Matrizes
-Algoritmos de Ordenação
+Formatação de dados em arquivo \
+Operadores Matemáticos \
+Estruturas Condicionais (if/else) \
+Vetores e Matrizes \
+Algoritmos de Ordenação 
 
 🗄️ Banco de Dados \
 SQL\
