@@ -19,13 +19,18 @@
 
 ## 📚 Atualmente estudando
 
-☕ Java
+💻Python\ 
+Estrutura de Repetição (for\while)
+Manipulação de Dados 
+Entrada e Saída de Dados
+Abertura de Arquivo em Exel
 
-Sintaxe e fundamentos\
-Orientação a Objetos\
-Classes e objetos\
-Encapsulamento\
-Manipulação de arquivos
+💻 C \
+Formatação de dados em arquivo
+Operadores Matemáticos
+Estruturas Condicionais (if/else)
+Vetores e Matrizes
+Algoritmos de Ordenação
 
 🗄️ Banco de Dados \
 SQL\
