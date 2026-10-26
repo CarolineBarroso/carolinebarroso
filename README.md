@@ -1,4 +1,4 @@
-# Caroline Barroso
+# Caroline Barroso de Oliveira
 
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas** \
 💻**Desenvolvedora C em formação** \
