@@ -1,82 +1,92 @@
-# Caroline Barroso de Oliveira
+<div align="center">
 
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas** \
-💻**Desenvolvedora C em formação** \
-☕**Focada em desenvolvimento Backend**
+# Caroline Oliveira
 
+### Análise e Desenvolvimento de Sistemas
 
-## 🌐 Onde me encontrar
+**Em constante evolução na área de tecnologia.**
 
-<p align="left">
-  <a href="https://github.com/carolinebarroso">
-    <img src="https://img.shields.io/badge/GitHub-CAROLINEBARROSO-181717?style=for-the-badge&logo=github" />
-  </a>
-  <p align="left">
-  <a href="https://www.linkedin.com/in/caroline-barroso-498035375/">
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+
+</div>
 
 ---
 
-## 📚 Atualmente estudando
+## Sobre mim
 
-💻Python \
-Estrutura de Repetição (for\while) \
-Manipulação de Dados \
-Entrada e Saída de Dados \
-Abertura de Arquivo em Exel 
+Meu nome é **Caroline Oliveira**, sou estudante de **Análise e Desenvolvimento de Sistemas na Unicid**, em São Paulo.
 
-💻 C \
-Formatação de dados em arquivo \
-Operadores Matemáticos \
-Estruturas Condicionais (if/else) \
-Vetores e Matrizes \
-Algoritmos de Ordenação 
+Estou desenvolvendo meus conhecimentos em programação, desenvolvimento de sistemas e banco de dados. Utilizo este espaço para organizar meus estudos, publicar projetos acadêmicos e acompanhar minha evolução na área de tecnologia.
 
-🗄️ Banco de Dados \
-SQL\
-MySQL\
-Modelagem de dados\
-Relacionamentos\
-Chaves primárias e estrangeiras
+```javascript
+const pessoa = {
+    nome: "Caroline Oliveira",
+    curso: "Análise e Desenvolvimento de Sistemas",
+    faculdade: "Unicid",
+    cidade: "São Paulo",
+    objetivo: "Evoluir em Back-end e front-end"
+};
+```
+
+## Conhecimentos
+
+### Programação
+
+![Python](https://img.shields.io/badge/Python-6f42c1?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-805ad5?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9370db?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-6f42c1?style=flat-square&logo=html5&logoColor=white)
+
+- Estruturas de repetição (`for` e `while`)
+- Estruturas condicionais (`if` e `else`)
+- Operadores matemáticos e lógicos
+- Manipulação de dados, vetores e matrizes
+- Entrada, saída e manipulação de arquivos
+- Algoritmos de ordenação
+
+### Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-6f42c1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-805ad5?style=flat-square&logo=mysql&logoColor=white)
+
+- Linguagem SQL e MySQL
+- Modelagem de dados
+- Relacionamentos entre tabelas
+- Chaves primárias e estrangeiras
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-6f42c1?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-805ad5?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-9370db?style=flat-square&logo=figma&logoColor=white)
+
+
+## Projetos
+
+Este perfil reúne projetos acadêmicos e exercícios práticos desenvolvidos durante meus estudos.
+
+- **Criptografia simples em C** — prática de lógica de programação e manipulação de caracteres.
+- **Inventário de equipamentos** — projeto de modelagem de dados para organizar informações de equipamentos.
+- **Exercícios de programação** — prática de estruturas condicionais, repetição, vetores, matrizes e arquivos.
+
+*Adicione os links dos repositórios correspondentes quando os projetos estiverem publicados.*
+
+## Objetivos de aprendizagem
+
+- Fortalecer a lógica de programação.
+- Aprofundar os conhecimentos em Java.
+- Desenvolver projetos com banco de dados.
+- Praticar Git e GitHub para versionamento de código.
+- Construir um portfólio de projetos organizado e consistente.
+
+## Contato
+
+- GitHub: [github.com/CarolineOliveira](https://github.com/CarolineOliveira)
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Backend
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<div align="center">
 
 
-### DevOps & Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carolinebarroso&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebarroso&layout=compact&theme=tokyonight" />
-</p>
-
----
-## 📊 O que você encontrará aqui
-
-Este perfil reúne meus estudos, exercícios e projetos desenvolvidos durante minha jornada na programação.
-
-A cada novo projeto, busco aplicar na prática os conceitos que estou aprendendo e melhorar a qualidade do meu código.
-
----
-
-⭐ Obrigada por visitar meu perfil \
-🤝 Se algum projeto for útil para você, fique à vontade para explorar o código.
+</div>
