@@ -1,8 +1,6 @@
 <div align="center">
 
-# Caroline Oliveira
-
-### Análise e Desenvolvimento de Sistemas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:93C5FD&height=200&section=header&text=Caroline%20Oliveira&fontSize=38&fontColor=28243A&fontAlignY=38&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=15&descAlignY=60&animation=fadeIn" />
 
 **Em constante evolução na área de tecnologia.**
 
@@ -15,8 +13,13 @@
 ## Sobre mim
 
 Meu nome é **Caroline Oliveira**, sou estudante de **Análise e Desenvolvimento de Sistemas na Unicid**, em São Paulo.
-
 Estou desenvolvendo meus conhecimentos em programação, desenvolvimento de sistemas e banco de dados. Utilizo este espaço para organizar meus estudos, publicar projetos acadêmicos e acompanhar minha evolução na área de tecnologia.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Caroline+Oliveira;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Evoluindo+em+Front-end+e+Back-end" alt="Apresentação animada de Caroline Oliveira" />
+
+</div>
 
 ```javascript
 const pessoa = {
@@ -82,12 +85,11 @@ Este perfil reúne projetos acadêmicos e exercícios práticos desenvolvidos du
 ## Contato
 
 - GitHub: [github.com/CarolineOliveira](https://github.com/CarolineOliveira)
-- - LinkedIn: [www.linkedin.com/in/carolineoliveira-dev](www.linkedin.com/in/carolineoliveira-dev)
+- LinkedIn: [www.linkedin.com/in/carolineoliveira-dev](www.linkedin.com/in/carolineoliveira-dev)
 
 ---
 
 <div align="center">
-
 
 
 </div>
