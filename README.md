@@ -82,6 +82,7 @@ Este perfil reúne projetos acadêmicos e exercícios práticos desenvolvidos du
 ## Contato
 
 - GitHub: [github.com/CarolineOliveira](https://github.com/CarolineOliveira)
+- - LinkedIn: [www.linkedin.com/in/carolineoliveira-dev](www.linkedin.com/in/carolineoliveira-dev)
 
 ---
 
