@@ -61,15 +61,6 @@ Chaves primárias e estrangeiras
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carolinebarroso&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebarroso&layout=compact&theme=tokyonight" />
-</p>
-
----
 ## 📊 O que você encontrará aqui
 
 Este perfil reúne meus estudos, exercícios e projetos desenvolvidos durante minha jornada na programação.
