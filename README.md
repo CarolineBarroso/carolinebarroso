@@ -77,26 +77,28 @@ console.log("Sempre aprendendo novas tecnologias!");
 </div>
 
 ---
-
 <h2 align="center">
   <font color="#7E22CE">03. Objetivos profissionais</font>
 </h2>
 
 <div align="center">
 
-🎯 Aprofundar meus conhecimentos em Java.
+```python
+objetivos_profissionais = [
+    "Aprofundar conhecimentos em Java",
+    "Desenvolver projetos práticos",
+    "Aprender estruturas de dados e algoritmos",
+    "Aprimorar conhecimentos em SQL e banco de dados",
+    "Construir um portfólio profissional",
+    "Evoluir na área de desenvolvimento de sistemas"
+]
 
-💻 Desenvolver projetos práticos.
-
-📚 Aprender estruturas de dados e algoritmos.
-
-🗄️ Aprimorar meus conhecimentos em SQL e banco de dados.
-
-🚀 Construir um portfólio profissional.
-
-✨ Evoluir continuamente na área de desenvolvimento de sistemas.
+for objetivo in objetivos_profissionais:
+    print(f"→ {objetivo}")
+```
 
 </div>
+
 
 ---
 
