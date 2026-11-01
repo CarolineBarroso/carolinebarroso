@@ -139,21 +139,6 @@ for objetivo in objetivos:
 
 <br>
 
-<h2 align="center">
-  <font color="#7E22CE">05. Estatísticas do GitHub</font>
-</h2>
-
-<br>
-
-<div align="center">
-  <img
-    width="80%"
-    src="https://streak-stats.demolab.com?user=carolinebarroso&background=F3E8FF&border=DDD6FE&ring=8B5CF6&fire=A855F7&currStreakLabel=7E22CE&sideLabels=7E22CE&currStreakNum=6B21A8&sideNums=6B21A8&dates=9333EA&hide_border=true"
-    alt="Sequência de contribuições"
-  />
-</div>
-
-<br>
 
 <h2 align="center">
   <font color="#7E22CE">07. Onde me encontrar</font>
